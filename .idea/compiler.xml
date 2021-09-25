@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gecmall-manager-ms" />
+        <module name="gecmall-auth-center (1)" />
+        <module name="gecmall-gateway" />
+        <module name="gecmall-pojo (1)" />
+        <module name="gecmall-content-ms (1)" />
+        <module name="gecmall-eurekaserver" />
+        <module name="gecmall-auth-common" />
+        <module name="gecmall-eurekaserver (1)" />
+        <module name="gecmall-pojo" />
+        <module name="gecmall-gateway (1)" />
+        <module name="gecmall-manager-ms (1)" />
+        <module name="gecmall-page-ms" />
+        <module name="gecmall-search-ms" />
+        <module name="gecmall-content-ms" />
+        <module name="gecmall-search-ms (1)" />
+        <module name="gecmall-auth-center" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dianshangxiangmudemo" target="1.8" />
+      <module name="dianshangxiangmuzijixie" target="1.8" />
+      <module name="gecmall-auth-center" target="1.8" />
+      <module name="gecmall-auth-center (1)" target="1.8" />
+      <module name="gecmall-auth-common" target="1.8" />
+      <module name="gecmall-auth-common (1)" target="1.8" />
+      <module name="gecmall-content-ms" target="1.8" />
+      <module name="gecmall-content-ms (1)" target="1.8" />
+      <module name="gecmall-eurekaserver" target="1.8" />
+      <module name="gecmall-eurekaserver (1)" target="1.8" />
+      <module name="gecmall-gateway" target="1.8" />
+      <module name="gecmall-gateway (1)" target="1.8" />
+      <module name="gecmall-manager-ms" target="1.8" />
+      <module name="gecmall-manager-ms (1)" target="1.8" />
+      <module name="gecmall-page-ms" target="1.8" />
+      <module name="gecmall-page-ms (1)" target="1.8" />
+      <module name="gecmall-pojo" target="1.8" />
+      <module name="gecmall-pojo (1)" target="1.8" />
+      <module name="gecmall-search-ms" target="1.8" />
+      <module name="gecmall-search-ms (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gecmall-auth-center" options="-parameters" />
+      <module name="gecmall-auth-center (1)" options="-parameters" />
+      <module name="gecmall-auth-common" options="-parameters" />
+      <module name="gecmall-auth-common (1)" options="-parameters" />
+      <module name="gecmall-content-ms" options="-parameters" />
+      <module name="gecmall-content-ms (1)" options="-parameters" />
+      <module name="gecmall-eurekaserver" options="-parameters" />
+      <module name="gecmall-eurekaserver (1)" options="-parameters" />
+      <module name="gecmall-gateway" options="-parameters" />
+      <module name="gecmall-gateway (1)" options="-parameters" />
+      <module name="gecmall-manager-ms" options="-parameters" />
+      <module name="gecmall-manager-ms (1)" options="-parameters" />
+      <module name="gecmall-page-ms" options="-parameters" />
+      <module name="gecmall-page-ms (1)" options="-parameters" />
+      <module name="gecmall-pojo" options="-parameters" />
+      <module name="gecmall-pojo (1)" options="-parameters" />
+      <module name="gecmall-search-ms" options="-parameters" />
+      <module name="gecmall-search-ms (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

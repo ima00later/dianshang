@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-auth-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-auth-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-content-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-content-ms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-manager-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-page-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-search-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-auth-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-content-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-manager-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-page-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-search-ms/src/main/java" charset="UTF-8" />
+  </component>
+</project>

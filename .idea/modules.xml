@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/dianshangxiangmudemo.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/dianshangxiangmudemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/dianshangxiangmuzijixie.iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/dianshangxiangmuzijixie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-auth-center/gecmall-auth-center.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-auth-center/gecmall-auth-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-auth-center/gecmall-auth-center (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-auth-center/gecmall-auth-center (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-auth-common/gecmall-auth-common.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-auth-common/gecmall-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-content-ms/gecmall-content-ms.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-content-ms/gecmall-content-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-content-ms/gecmall-content-ms (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-content-ms/gecmall-content-ms (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-eurekaserver/gecmall-eurekaserver.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-eurekaserver/gecmall-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-eurekaserver/gecmall-eurekaserver (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-eurekaserver/gecmall-eurekaserver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-gateway/gecmall-gateway.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-gateway/gecmall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-gateway/gecmall-gateway (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-gateway/gecmall-gateway (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-manager-ms/gecmall-manager-ms.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-manager-ms/gecmall-manager-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-manager-ms/gecmall-manager-ms (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-manager-ms/gecmall-manager-ms (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-page-ms/gecmall-page-ms.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-page-ms/gecmall-page-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-page-ms/gecmall-page-ms (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-page-ms/gecmall-page-ms (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-pojo/gecmall-pojo.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-pojo/gecmall-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-pojo/gecmall-pojo (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-pojo/gecmall-pojo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmudemo/gecmall-search-ms/gecmall-search-ms.iml" filepath="$PROJECT_DIR$/dianshangxiangmudemo/gecmall-search-ms/gecmall-search-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-search-ms/gecmall-search-ms (1).iml" filepath="$PROJECT_DIR$/dianshangxiangmuzijixie/gecmall-search-ms/gecmall-search-ms (1).iml" />
+    </modules>
+  </component>
+</project>

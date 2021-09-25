@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gecmall-auth-center" />
+        <module name="gecmall-manager-ms" />
+        <module name="gecmall-gateway" />
+        <module name="gecmall-pojo" />
+        <module name="gecmall-page-ms" />
+        <module name="gecmall-auth-common" />
+        <module name="gecmall-eurekaserver" />
+        <module name="gecmall-search-ms" />
+        <module name="gecmall-content-ms" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gecmall-auth-center" options="-parameters" />
+      <module name="gecmall-auth-common" options="-parameters" />
+      <module name="gecmall-content-ms" options="-parameters" />
+      <module name="gecmall-eurekaserver" options="-parameters" />
+      <module name="gecmall-gateway" options="-parameters" />
+      <module name="gecmall-manager-ms" options="-parameters" />
+      <module name="gecmall-page-ms" options="-parameters" />
+      <module name="gecmall-pojo" options="-parameters" />
+      <module name="gecmall-search-ms" options="-parameters" />
+    </option>
+  </component>
+</project>
